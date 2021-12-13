@@ -1,2 +1,2 @@
 # NLPiffy
-- NLPiffy - a natu
+- NLPiffy - a natural languag
