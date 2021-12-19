@@ -1,2 +1,3 @@
 # NLPiffy
-- NLPiffy - a natural language processing p
+- NLPiffy - a natural language processing platform
+ - 
