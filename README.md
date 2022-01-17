@@ -8,4 +8,5 @@
 - NLPiffy-cli
  + click
  + textblob
+ + spacy
  +
