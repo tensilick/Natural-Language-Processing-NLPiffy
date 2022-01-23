@@ -14,4 +14,5 @@
 
 - NLPiffy Web App
  + Flask
- + Spac
+ + Spacy
+ + Text
