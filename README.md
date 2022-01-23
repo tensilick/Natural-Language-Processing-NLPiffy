@@ -15,4 +15,5 @@
 - NLPiffy Web App
  + Flask
  + Spacy
- + Text
+ + TextBlob
+ + Bootstr
