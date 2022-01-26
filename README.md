@@ -17,4 +17,5 @@
  + Spacy
  + TextBlob
  + Bootstrap
- + Materialize.c
+ + Materialize.css
+ + Flask 
