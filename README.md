@@ -21,4 +21,5 @@
  + Flask RestPlus
 
 
-##### Installing Dependen
+##### Installing Dependencies
+- pip i
