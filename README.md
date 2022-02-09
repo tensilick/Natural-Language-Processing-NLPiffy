@@ -22,4 +22,5 @@
 
 
 ##### Installing Dependencies
-- pip i
+- pip install click
+-
