@@ -23,4 +23,4 @@
 
 ##### Installing Dependencies
 - pip install click
-- pip 
+- pip install tex
