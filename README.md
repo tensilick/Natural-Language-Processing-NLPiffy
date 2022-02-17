@@ -23,4 +23,5 @@
 
 ##### Installing Dependencies
 - pip install click
-- pip install tex
+- pip install textblob
+- pi
