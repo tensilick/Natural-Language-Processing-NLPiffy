@@ -24,4 +24,4 @@
 ##### Installing Dependencies
 - pip install click
 - pip install textblob
-- pi
+- pip install spa
