@@ -24,4 +24,5 @@
 ##### Installing Dependencies
 - pip install click
 - pip install textblob
-- pip install spa
+- pip install spacy
+- pytho
