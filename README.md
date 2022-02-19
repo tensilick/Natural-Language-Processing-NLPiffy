@@ -25,4 +25,4 @@
 - pip install click
 - pip install textblob
 - pip install spacy
-- pytho
+- python -m spacy dow
