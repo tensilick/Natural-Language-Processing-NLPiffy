@@ -27,4 +27,8 @@
 - pip install spacy
 - python -m spacy download en
 - python -m spacy download fr 
- -  Optional for Frenc
+ -  Optional for French
+
+
+
+####
