@@ -32,4 +32,5 @@
 
 
 ##### .
-- By Jesse JCh
+- By Jesse JCharis
+- Jesu
