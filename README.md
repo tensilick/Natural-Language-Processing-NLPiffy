@@ -33,4 +33,4 @@
 
 ##### .
 - By Jesse JCharis
-- Jesu
+- Jesus Saves @ JC
