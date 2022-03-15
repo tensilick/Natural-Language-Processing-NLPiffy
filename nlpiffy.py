@@ -6,4 +6,6 @@ import click
 # Misc Packages
 import json
 import time
-from pyfiglet import 
+from pyfiglet import Figlet
+
+# 
