@@ -9,3 +9,4 @@ import time
 from pyfiglet import Figlet
 
 # NLP packages
+import spacy
