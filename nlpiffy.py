@@ -11,4 +11,4 @@ from pyfiglet import Figlet
 # NLP packages
 import spacy
 from textblob import TextBlob 
-n
+nlp = 
