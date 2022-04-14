@@ -16,4 +16,5 @@ nlp = spacy.load('en')
 
 # Save to file as text
 def save_to_file(x):
-	timestr = time.strftime("%Y%m%d-%H%M%S
+	timestr = time.strftime("%Y%m%d-%H%M%S")
+	filena
