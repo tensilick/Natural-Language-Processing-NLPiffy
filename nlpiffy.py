@@ -19,3 +19,4 @@ def save_to_file(x):
 	timestr = time.strftime("%Y%m%d-%H%M%S")
 	filename = 'result' + timestr + '.txt'
 	with click.open_file(filename, 'wb') as f:
+		 f.w
