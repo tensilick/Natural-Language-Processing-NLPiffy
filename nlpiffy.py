@@ -24,4 +24,4 @@ def save_to_file(x):
 
 # Save to file as json
 def save_to_json(x):
-	timestr = time.
+	timestr = time.strftime("%
