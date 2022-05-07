@@ -25,4 +25,5 @@ def save_to_file(x):
 # Save to file as json
 def save_to_json(x):
 	timestr = time.strftime("%Y%m%d-%H%M%S")
-	filename = 'result' + timestr +
+	filename = 'result' + timestr + '.txt'
+	wit
