@@ -31,4 +31,5 @@ def save_to_json(x):
 
 
 
-@click.gro
+@click.group()
+@click.ver
