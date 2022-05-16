@@ -27,4 +27,4 @@ def save_to_json(x):
 	timestr = time.strftime("%Y%m%d-%H%M%S")
 	filename = 'result' + timestr + '.txt'
 	with click.open_file(filename, 'wb') as f:
-		json.dump(x, f, indent=4, s
+		json.dump(x, f, indent=4, sort_keys=T
