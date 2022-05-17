@@ -32,4 +32,4 @@ def save_to_json(x):
 
 
 @click.group()
-@click.ver
+@click.version_option(v
