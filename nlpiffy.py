@@ -32,4 +32,5 @@ def save_to_json(x):
 
 
 @click.group()
-@click.version_option(version='0.00',prog_name='NLPiffy CLI
+@click.version_option(version='0.00',prog_name='NLPiffy CLI')
+def main():
