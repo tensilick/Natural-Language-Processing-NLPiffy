@@ -40,4 +40,5 @@ def main():
 
 
 # Tokenization 
-@main
+@main.command()
+@cli
