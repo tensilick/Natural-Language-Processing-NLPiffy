@@ -41,4 +41,4 @@ def main():
 
 # Tokenization 
 @main.command()
-@click.argume
+@click.argument('text')
