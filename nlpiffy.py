@@ -41,4 +41,4 @@ def main():
 
 # Tokenization 
 @main.command()
-@cli
+@click.argume
