@@ -42,4 +42,4 @@ def main():
 # Tokenization 
 @main.command()
 @click.argument('text')
-@click.option('--to
+@click.option('--tokentype',he
