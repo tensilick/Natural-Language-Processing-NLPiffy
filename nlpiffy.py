@@ -44,4 +44,5 @@ def main():
 @click.argument('text')
 @click.option('--tokentype',help="Specify Type of Tokenization -Word Tokens or Sentence Tokens")
 @click.option('--save','-s')
-def tokens(text,to
+def tokens(text,tokentype,save):
+	
