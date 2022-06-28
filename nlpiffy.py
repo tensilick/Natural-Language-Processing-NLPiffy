@@ -46,4 +46,4 @@ def main():
 @click.option('--save','-s')
 def tokens(text,tokentype,save):
 	""" Tokenization Using TextBlob """
-	raw_text = 
+	raw_text = TextBlob(text
