@@ -48,4 +48,4 @@ def tokens(text,tokentype,save):
 	""" Tokenization Using TextBlob """
 	raw_text = TextBlob(text)
 	final_result = raw_text
-	if tokentype == 'word' an
+	if tokentype == 'word' and save
