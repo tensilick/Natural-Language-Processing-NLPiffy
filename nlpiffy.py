@@ -49,4 +49,4 @@ def tokens(text,tokentype,save):
 	raw_text = TextBlob(text)
 	final_result = raw_text
 	if tokentype == 'word' and save =='True':
-		click.secho('Your tex
+		click.secho('Your text was: {}'.fo
