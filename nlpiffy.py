@@ -55,4 +55,4 @@ def tokens(text,tokentype,save):
 
 	elif tokentype == 'sentence' and save =='True':
 		click.secho('Your text was: {}'.format(text),fg='yellow')
-		click.secho(
+		click.secho('Sentence 
