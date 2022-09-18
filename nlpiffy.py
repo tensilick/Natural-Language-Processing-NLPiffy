@@ -56,4 +56,4 @@ def tokens(text,tokentype,save):
 	elif tokentype == 'sentence' and save =='True':
 		click.secho('Your text was: {}'.format(text),fg='yellow')
 		click.secho('Sentence Tokens : {}'.format(final_result.sentences),fg='green')
-		save_to_json(str
+		save_to_json(str(final_
