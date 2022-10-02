@@ -59,4 +59,4 @@ def tokens(text,tokentype,save):
 		save_to_json(str(final_result.sentences))
 	else:
 		if tokentype == 'word':
-			clic
+			click.secho('Your
