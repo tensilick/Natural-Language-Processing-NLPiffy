@@ -60,4 +60,4 @@ def tokens(text,tokentype,save):
 	else:
 		if tokentype == 'word':
 			click.secho('Your text was: {}'.format(text),fg='yellow')
-			click.secho(
+			click.secho('Word Tokens
