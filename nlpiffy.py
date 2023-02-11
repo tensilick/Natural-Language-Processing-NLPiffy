@@ -70,4 +70,4 @@ def tokens(text,tokentype,save):
 
 			# To Be Refactored
 	# if save == 'True':
-	# 	if tokentype == 
+	# 	if tokentype == 'word
