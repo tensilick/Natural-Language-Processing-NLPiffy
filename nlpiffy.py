@@ -71,4 +71,4 @@ def tokens(text,tokentype,save):
 			# To Be Refactored
 	# if save == 'True':
 	# 	if tokentype == 'word':
-	# 		click.secho('Your text was
+	# 		click.secho('Your text was: {}'.format(t
