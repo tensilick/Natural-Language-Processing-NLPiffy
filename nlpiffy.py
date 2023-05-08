@@ -78,4 +78,5 @@ def tokens(text,tokentype,save):
 	# 	elif tokentype == 'sentence':
 	# 		click.secho('Your text was: {}'.format(text),fg='yellow')
 	# 		click.secho('Sentence Tokens : {}'.format(final_result.sentences),fg='green')
-	# 	el
+	# 	else:
+	
