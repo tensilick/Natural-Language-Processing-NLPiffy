@@ -80,4 +80,4 @@ def tokens(text,tokentype,save):
 	# 		click.secho('Sentence Tokens : {}'.format(final_result.sentences),fg='green')
 	# 	else:
 	# 		click.secho('Your text was: {}'.format(text),fg='yellow')
-	# 		click.sec
+	# 		click.secho('Word T
