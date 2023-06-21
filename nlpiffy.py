@@ -83,4 +83,5 @@ def tokens(text,tokentype,save):
 	# 		click.secho('Word Tokens: {}'.format(final_result.words),fg='green')
 	# elif save == 'False':
 	# 	if tokentype == 'word':
-	# 		click.secho('Your text was: {}'.format(text),fg='y
+	# 		click.secho('Your text was: {}'.format(text),fg='yellow')
+	# 		cli
