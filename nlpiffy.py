@@ -94,4 +94,4 @@ def tokens(text,tokentype,save):
 	# else:
 	# 	if tokentype == 'word':
 	# 		click.secho('Your text was: {}'.format(text),fg='yellow')
-	# 		cli
+	# 		click.secho('W
