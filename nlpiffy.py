@@ -105,3 +105,4 @@ def tokens(text,tokentype,save):
 
 # Sentiment Analysis
 @main.command()
+@click.argume
