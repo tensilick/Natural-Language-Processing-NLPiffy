@@ -104,4 +104,4 @@ def tokens(text,tokentype,save):
 
 
 # Sentiment Analysis
-@mai
+@main.command()
