@@ -106,4 +106,4 @@ def tokens(text,tokentype,save):
 # Sentiment Analysis
 @main.command()
 @click.argument('text')
-@click.option('--polarity','-p',help="Specify if to show only 
+@click.option('--polarity','-p',help="Specify if to show only polarity with 
