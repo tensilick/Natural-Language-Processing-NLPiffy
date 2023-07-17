@@ -108,4 +108,5 @@ def tokens(text,tokentype,save):
 @click.argument('text')
 @click.option('--polarity','-p',help="Specify if to show only polarity with either True or False")
 def sentiment(text,polarity):
-	""" Sentiment Analysis Using TextBlob "
+	""" Sentiment Analysis Using TextBlob """
+	raw_t
