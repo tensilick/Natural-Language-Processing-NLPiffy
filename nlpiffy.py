@@ -107,4 +107,4 @@ def tokens(text,tokentype,save):
 @main.command()
 @click.argument('text')
 @click.option('--polarity','-p',help="Specify if to show only polarity with either True or False")
-def sentiment
+def sentiment(text,polari
