@@ -112,4 +112,4 @@ def sentiment(text,polarity):
 	raw_text = TextBlob(text)
 	final_result = raw_text.sentiment
 	if polarity == 'True':
-		click.se
+		click.secho('Your text
