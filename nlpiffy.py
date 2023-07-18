@@ -110,4 +110,4 @@ def tokens(text,tokentype,save):
 def sentiment(text,polarity):
 	""" Sentiment Analysis Using TextBlob """
 	raw_text = TextBlob(text)
-	final_res
+	final_result = r
