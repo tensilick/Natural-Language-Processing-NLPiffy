@@ -111,4 +111,4 @@ def sentiment(text,polarity):
 	""" Sentiment Analysis Using TextBlob """
 	raw_text = TextBlob(text)
 	final_result = raw_text.sentiment
-	if p
+	if polarity == 'True':
