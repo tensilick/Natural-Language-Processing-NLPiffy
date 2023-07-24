@@ -113,4 +113,5 @@ def sentiment(text,polarity):
 	final_result = raw_text.sentiment
 	if polarity == 'True':
 		click.secho('Your text was: {}'.format(text),fg='green')
-		click.secho('Sentiment - Polarity: {}'.format(final_result.polarity),f
+		click.secho('Sentiment - Polarity: {}'.format(final_result.polarity),fg='green')
+	el
