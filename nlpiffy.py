@@ -117,4 +117,5 @@ def sentiment(text,polarity):
 	elif polarity == 'False':
 		click.secho('Your text was: {}'.format(text),fg='blue')
 		click.secho('Sentiment - Subjectivity: {}'.format(final_result.subjectivity),fg='green')
-	else
+	else:
+		click.s
