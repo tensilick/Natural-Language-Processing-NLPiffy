@@ -121,4 +121,5 @@ def sentiment(text,polarity):
 		click.secho('Your text was: {}'.format(text),fg='blue')
 		click.secho('Sentiment: {}'.format(final_result),fg='green')
 
-# Parts of Speech Taggi
+# Parts of Speech Tagging
+@main.comma
