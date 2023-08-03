@@ -124,3 +124,4 @@ def sentiment(text,polarity):
 # Parts of Speech Tagging
 @main.command()
 @click.argument('text')
+def parts_
