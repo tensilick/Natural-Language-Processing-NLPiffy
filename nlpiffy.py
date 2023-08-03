@@ -123,4 +123,4 @@ def sentiment(text,polarity):
 
 # Parts of Speech Tagging
 @main.command()
-@cli
+@click.argume
