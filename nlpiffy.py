@@ -125,4 +125,4 @@ def sentiment(text,polarity):
 @main.command()
 @click.argument('text')
 def parts_of_speech(text):
-	""" Parts of
+	""" Parts of Speech Using TextBlob
