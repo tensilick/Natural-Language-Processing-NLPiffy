@@ -127,4 +127,4 @@ def sentiment(text,polarity):
 def parts_of_speech(text):
 	""" Parts of Speech Using TextBlob """
 	raw_text = TextBlob(text)
-	click
+	click.secho('You
