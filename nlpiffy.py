@@ -128,4 +128,4 @@ def parts_of_speech(text):
 	""" Parts of Speech Using TextBlob """
 	raw_text = TextBlob(text)
 	click.secho('Your text was: {}'.format(text),fg='green')
-	click.secho('Parts of Speech Tags: {}'.form
+	click.secho('Parts of Speech Tags: {}'.format(raw_text
