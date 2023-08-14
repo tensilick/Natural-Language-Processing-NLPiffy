@@ -130,4 +130,5 @@ def parts_of_speech(text):
 	click.secho('Your text was: {}'.format(text),fg='green')
 	click.secho('Parts of Speech Tags: {}'.format(raw_text.pos_tags),fg='green')
 	
-# Named Entity Recogni
+# Named Entity Recognition
+@
