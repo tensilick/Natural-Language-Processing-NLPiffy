@@ -131,4 +131,4 @@ def parts_of_speech(text):
 	click.secho('Parts of Speech Tags: {}'.format(raw_text.pos_tags),fg='green')
 	
 # Named Entity Recognition
-@
+@main.comman
