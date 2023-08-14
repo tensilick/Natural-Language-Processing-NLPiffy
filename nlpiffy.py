@@ -132,4 +132,4 @@ def parts_of_speech(text):
 	
 # Named Entity Recognition
 @main.command()
-@clic
+@click.argument('text')
