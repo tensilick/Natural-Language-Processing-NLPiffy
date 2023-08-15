@@ -134,4 +134,5 @@ def parts_of_speech(text):
 @main.command()
 @click.argument('text')
 def entities(text):
-	""" Named Entity Recognition Using S
+	""" Named Entity Recognition Using Spacy """
+	ra
