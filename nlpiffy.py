@@ -134,4 +134,4 @@ def parts_of_speech(text):
 @main.command()
 @click.argument('text')
 def entities(text):
-	""" Named
+	""" Named Entity Recognit
