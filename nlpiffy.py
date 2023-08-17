@@ -135,4 +135,5 @@ def parts_of_speech(text):
 @click.argument('text')
 def entities(text):
 	""" Named Entity Recognition Using Spacy """
-	raw_text = nlp(text
+	raw_text = nlp(text)
+	final_res
