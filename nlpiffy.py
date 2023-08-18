@@ -136,4 +136,5 @@ def parts_of_speech(text):
 def entities(text):
 	""" Named Entity Recognition Using Spacy """
 	raw_text = nlp(text)
-	final_result_entities = [(entity.text,entity.label_)for entity in raw_text.en
+	final_result_entities = [(entity.text,entity.label_)for entity in raw_text.ents]
+	c
