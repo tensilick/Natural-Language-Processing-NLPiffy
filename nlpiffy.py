@@ -137,4 +137,4 @@ def entities(text):
 	""" Named Entity Recognition Using Spacy """
 	raw_text = nlp(text)
 	final_result_entities = [(entity.text,entity.label_)for entity in raw_text.ents]
-	c
+	click.secho('Your t
