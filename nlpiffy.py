@@ -138,4 +138,6 @@ def entities(text):
 	raw_text = nlp(text)
 	final_result_entities = [(entity.text,entity.label_)for entity in raw_text.ents]
 	click.secho('Your text was: {}'.format(text),fg='yellow')
-	click.secho('Named Entities: {}'.format(final_result_entities),fg='gree
+	click.secho('Named Entities: {}'.format(final_result_entities),fg='green')
+
+# Word Info 
