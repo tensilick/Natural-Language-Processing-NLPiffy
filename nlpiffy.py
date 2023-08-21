@@ -142,4 +142,4 @@ def entities(text):
 
 # Word Info with Lemmatization,Syntax Dependency,Stopwords,Word Shape
 @main.command()
-@click.a
+@click.argument('
