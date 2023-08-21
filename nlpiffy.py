@@ -141,4 +141,5 @@ def entities(text):
 	click.secho('Named Entities: {}'.format(final_result_entities),fg='green')
 
 # Word Info with Lemmatization,Syntax Dependency,Stopwords,Word Shape
-@main.command(
+@main.command()
+@click.a
