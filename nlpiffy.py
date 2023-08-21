@@ -140,4 +140,4 @@ def entities(text):
 	click.secho('Your text was: {}'.format(text),fg='yellow')
 	click.secho('Named Entities: {}'.format(final_result_entities),fg='green')
 
-# Word Info with Lemmatization,Syntax Dependency,Stopwords,W
+# Word Info with Lemmatization,Syntax Dependency,Stopwords,Word Sha
