@@ -144,4 +144,4 @@ def entities(text):
 @main.command()
 @click.argument('text')
 def wordinfo(text):
-	""" Word Info and Analysis 
+	""" Word Info and Analysis Including Depende
