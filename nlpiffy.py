@@ -145,4 +145,4 @@ def entities(text):
 @click.argument('text')
 def wordinfo(text):
 	""" Word Info and Analysis Including Dependency,Lemma ,Tags Using Spacy """
-	raw_text =
+	raw_text = nlp(text)
