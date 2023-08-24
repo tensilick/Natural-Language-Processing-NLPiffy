@@ -146,4 +146,4 @@ def entities(text):
 def wordinfo(text):
 	""" Word Info and Analysis Including Dependency,Lemma ,Tags Using Spacy """
 	raw_text = nlp(text)
-	allData = [('"Token":"{}","Tag":"{}","POS":"{}","Dependency":"{}","Lemma":"{}","Sha
+	allData = [('"Token":"{}","Tag":"{}","POS":"{}","Dependency":"{}","Lemma":"{}","Shape":"{}","Alpha":
