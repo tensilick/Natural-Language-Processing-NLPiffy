@@ -149,4 +149,4 @@ def wordinfo(text):
 	allData = [('"Token":"{}","Tag":"{}","POS":"{}","Dependency":"{}","Lemma":"{}","Shape":"{}","Alpha":"{}","IsStopword":"{}"'.format(token.text,token.tag_,token.pos_,token.dep_,token.lemma_,token.shape_,token.is_alpha,token.is_stop)) for token in raw_text ]
 
 	click.secho('Your text was: {}'.format(text),fg='yellow')
-	click.secho('Wo
+	click.secho('Word Analysi
