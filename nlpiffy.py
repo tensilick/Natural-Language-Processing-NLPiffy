@@ -153,4 +153,4 @@ def wordinfo(text):
 
 
 
-# Rea
+# Reading Text 
