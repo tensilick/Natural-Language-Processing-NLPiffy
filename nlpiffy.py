@@ -154,4 +154,4 @@ def wordinfo(text):
 
 
 # Reading Text From A File
-@mai
+@main.command(
