@@ -155,4 +155,5 @@ def wordinfo(text):
 
 # Reading Text From A File
 @main.command()
-@click.argument('text',type=click
+@click.argument('text',type=click.File('rb'))
+@c
