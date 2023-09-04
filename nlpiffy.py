@@ -157,4 +157,5 @@ def wordinfo(text):
 @main.command()
 @click.argument('text',type=click.File('rb'))
 @click.argument('analysis',default='wordinfo')
-def read_file(text,analysis
+def read_file(text,analysis):
+	"""Read
