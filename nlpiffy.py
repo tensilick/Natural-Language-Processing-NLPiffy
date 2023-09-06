@@ -160,4 +160,4 @@ def wordinfo(text):
 def read_file(text,analysis):
 	"""Read A File and Analysis it
 	"""
-	# mytext = 
+	# mytext = tex
