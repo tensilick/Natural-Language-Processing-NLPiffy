@@ -161,4 +161,4 @@ def read_file(text,analysis):
 	"""Read A File and Analysis it
 	"""
 	# mytext = text.read(1024)
-	mytext = text
+	mytext = text.read().decode
