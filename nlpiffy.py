@@ -162,4 +162,4 @@ def read_file(text,analysis):
 	"""
 	# mytext = text.read(1024)
 	mytext = text.read().decode('utf-8')
-	file_text = Text
+	file_text = TextBlob(mytex
