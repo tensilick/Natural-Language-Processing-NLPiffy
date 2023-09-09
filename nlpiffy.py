@@ -164,4 +164,5 @@ def read_file(text,analysis):
 	mytext = text.read().decode('utf-8')
 	file_text = TextBlob(mytext)
 	click.secho('Your text was: {}'.format(text),fg='yellow')
-	if analysis == 'token
+	if analysis == 'tokens':
+		click.secho('W
