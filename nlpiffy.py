@@ -163,4 +163,5 @@ def read_file(text,analysis):
 	# mytext = text.read(1024)
 	mytext = text.read().decode('utf-8')
 	file_text = TextBlob(mytext)
-	click.secho('Your text was: {}'.format(text),fg='ye
+	click.secho('Your text was: {}'.format(text),fg='yellow')
+	if analysis 
