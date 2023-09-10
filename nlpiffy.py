@@ -165,4 +165,5 @@ def read_file(text,analysis):
 	file_text = TextBlob(mytext)
 	click.secho('Your text was: {}'.format(text),fg='yellow')
 	if analysis == 'tokens':
-		click.secho('Word Tokens: {}'.format(file_text.words),fg='green
+		click.secho('Word Tokens: {}'.format(file_text.words),fg='green')
+	elif an
