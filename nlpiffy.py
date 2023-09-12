@@ -166,4 +166,4 @@ def read_file(text,analysis):
 	click.secho('Your text was: {}'.format(text),fg='yellow')
 	if analysis == 'tokens':
 		click.secho('Word Tokens: {}'.format(file_text.words),fg='green')
-	elif an
+	elif analysis == 
