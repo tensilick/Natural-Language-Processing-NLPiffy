@@ -169,4 +169,4 @@ def read_file(text,analysis):
 	elif analysis == 'sentiment':
 		click.secho('Sentiment: {}'.format(file_text.sentiment),fg='green')
 	elif analysis == 'wordinfo':
-		nlp_text
+		nlp_text = nlp(m
