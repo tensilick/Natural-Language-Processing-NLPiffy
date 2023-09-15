@@ -168,4 +168,5 @@ def read_file(text,analysis):
 		click.secho('Word Tokens: {}'.format(file_text.words),fg='green')
 	elif analysis == 'sentiment':
 		click.secho('Sentiment: {}'.format(file_text.sentiment),fg='green')
-	elif analysis == 'w
+	elif analysis == 'wordinfo':
+		n
