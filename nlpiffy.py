@@ -170,4 +170,5 @@ def read_file(text,analysis):
 		click.secho('Sentiment: {}'.format(file_text.sentiment),fg='green')
 	elif analysis == 'wordinfo':
 		nlp_text = nlp(mytext)
-		allData = [('"Token":"{}","Tag":"{}","POS":"{}","Dependency":"{}","Lemma":"{}","Shape":"{}","Alpha":"{}","IsStopword":"{}"'.format(token.text,token.tag_,token.pos_,token.dep_,token.lemma_,token.shape_,token.is_alpha,token.is_stop)) for token in nl
+		allData = [('"Token":"{}","Tag":"{}","POS":"{}","Dependency":"{}","Lemma":"{}","Shape":"{}","Alpha":"{}","IsStopword":"{}"'.format(token.text,token.tag_,token.pos_,token.dep_,token.lemma_,token.shape_,token.is_alpha,token.is_stop)) for token in nlp_text ]
+		c
