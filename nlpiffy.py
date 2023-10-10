@@ -172,4 +172,4 @@ def read_file(text,analysis):
 		nlp_text = nlp(mytext)
 		allData = [('"Token":"{}","Tag":"{}","POS":"{}","Dependency":"{}","Lemma":"{}","Shape":"{}","Alpha":"{}","IsStopword":"{}"'.format(token.text,token.tag_,token.pos_,token.dep_,token.lemma_,token.shape_,token.is_alpha,token.is_stop)) for token in nlp_text ]
 		click.secho('Word Analysis: {}'.format(allData),fg='green')
-	
+	else:
