@@ -177,4 +177,5 @@ def read_file(text,analysis):
 
 
 # Abouts
-@main.command(
+@main.command()
+@cli
