@@ -178,4 +178,4 @@ def read_file(text,analysis):
 
 # Abouts
 @main.command()
-@cli
+@click.option('--abo
