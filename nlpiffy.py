@@ -179,4 +179,5 @@ def read_file(text,analysis):
 # Abouts
 @main.command()
 @click.option('--about')
-def info(abou
+def info(about):
+	""" A
