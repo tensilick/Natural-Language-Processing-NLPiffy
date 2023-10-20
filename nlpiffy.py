@@ -180,4 +180,4 @@ def read_file(text,analysis):
 @main.command()
 @click.option('--about')
 def info(about):
-	""" A
+	""" About NLPiffy """
