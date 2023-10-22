@@ -182,4 +182,5 @@ def read_file(text,analysis):
 def info(about):
 	""" About NLPiffy """
 	
-# STYLED NAME with Figle
+# STYLED NAME with Figlet
+	f = Figle
