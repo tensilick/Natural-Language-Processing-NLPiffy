@@ -183,4 +183,4 @@ def info(about):
 	""" About NLPiffy """
 	
 # STYLED NAME with Figlet
-	f = Figle
+	f = Figlet(font="slant
