@@ -184,4 +184,4 @@ def info(about):
 	
 # STYLED NAME with Figlet
 	f = Figlet(font="slant")
-	print(f.renderText(
+	print(f.renderText("NLPiffy CLI
