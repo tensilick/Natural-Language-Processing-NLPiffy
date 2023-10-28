@@ -187,3 +187,6 @@ def info(about):
 	print(f.renderText("NLPiffy CLI"))
 	
 	
+
+
+if __name__ =
