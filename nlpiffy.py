@@ -189,4 +189,4 @@ def info(about):
 	
 
 
-if __name__ =
+if __name__ == '__main__
