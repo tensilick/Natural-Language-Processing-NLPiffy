@@ -10,3 +10,13 @@
 + Tkinter
 + Textblob
 + Spacy
++ Polyglot (Alternative)
+
+###### Why Natural-Language-Processing-NLPiffy
++ Aim to simplify and streamline repetitive tasks
+
+###### Screenshot
+![nlpiffy_gui](https://github.com/tensilick/Natural-Language-Processing-NLPiffy/blob/master/Natural-Language-Processing-NLPiffy_GUi-1.png)
+
+###### File Processor
+![nlpiffy_gui2](https://github.com/tensilick/Natural-Language-Processing-NLPiffy/blob/master/Natural-Language-Processing-NLPiffy_GUI-2.png)
